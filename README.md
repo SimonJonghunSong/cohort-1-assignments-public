@@ -2,7 +2,9 @@
 
 - [1a](./1a)
 Deployment successful
+
 Deployed to Flare Coston2 testnet.
+
 Deployed contracts
   MockERC20 Token A (a, A)
     Address: 0x8aa3c6bdf90b44a9ba94c035d5736f0460368e15
